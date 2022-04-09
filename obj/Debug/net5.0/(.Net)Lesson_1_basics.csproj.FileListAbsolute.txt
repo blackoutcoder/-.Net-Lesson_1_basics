@@ -1,0 +1,16 @@
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\bin\Debug\net5.0\(.Net)Lesson_1_basics.exe
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\bin\Debug\net5.0\(.Net)Lesson_1_basics.deps.json
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\bin\Debug\net5.0\(.Net)Lesson_1_basics.runtimeconfig.json
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\bin\Debug\net5.0\(.Net)Lesson_1_basics.runtimeconfig.dev.json
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\bin\Debug\net5.0\(.Net)Lesson_1_basics.dll
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\bin\Debug\net5.0\(.Net)Lesson_1_basics.pdb
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\(.Net)Lesson_1_basics.csproj.AssemblyReference.cache
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\(.Net)Lesson_1_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\(.Net)Lesson_1_basics.AssemblyInfoInputs.cache
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\(.Net)Lesson_1_basics.AssemblyInfo.cs
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\(.Net)Lesson_1_basics.csproj.CoreCompileInputs.cache
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\(.Net)Lesson_1_basics.dll
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\refint\(.Net)Lesson_1_basics.dll
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\(.Net)Lesson_1_basics.pdb
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\(.Net)Lesson_1_basics.genruntimeconfig.cache
+C:\Users\romka\source\repos\(.Net)Lesson_1_basics\obj\Debug\net5.0\ref\(.Net)Lesson_1_basics.dll
